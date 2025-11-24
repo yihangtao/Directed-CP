@@ -33,7 +33,7 @@
 
 ## 📰 News
 
-* **2025.01.19**: Directed-CP is accepted by [ICRA 2025](https://2025.ieee-icra.org/
+* **2025.01.19**: Directed-CP is accepted by [ICRA 2025](https://2025.ieee-icra.org/).
 * **2025.09.05**: Directed-CP paper is available on [IEEE Xplore](https://ieeexplore.ieee.org/document/11127818).
 
 ---
@@ -98,9 +98,6 @@ cd Direct-CP-Lidar/Where2comm
 # Install dependencies (after setting up Where2comm environment)
 pip install -r requirements.txt
 python setup.py develop
-
-# Verify Directed-CP components
-python scripts/test_components.py
 ```
 
 ### Dataset Preparation
@@ -363,6 +360,6 @@ This project is released under the [MIT License](./LICENSE).
 
 **Made with ❤️ by the JC STEM Lab of Smart City, City University of Hong Kong**
 
-[🏠 Homepage](https://www.cityu.edu.hk/) • [📧 Contact](mailto:yihangtao2-c@my.cityu.edu.hk) • [📝 Paper](https://ieeexplore.ieee.org/document/11127818)
+[🏠 Homepage](https://jcstemlab.netlify.app/) • [📧 Contact](mailto:yihangtao2-c@my.cityu.edu.hk) • [📝 Paper](https://ieeexplore.ieee.org/document/11127818)
 
 </div>
