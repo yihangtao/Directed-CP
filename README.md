@@ -92,8 +92,8 @@ Directed-CP is built upon the [Where2comm](https://github.com/MediaBrain-SJTU/Wh
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/Direct-CP-Lidar.git
-cd Direct-CP-Lidar/Where2comm
+git clone https://github.com/yihangtao/Directed-CP.git
+cd Directed-CP
 
 # Install dependencies (after setting up Where2comm environment)
 pip install -r requirements.txt
